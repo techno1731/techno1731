@@ -1,6 +1,6 @@
 ### Hi there 👋, this is Ennio Maldonado
 
-- 🌱 I’m currently learning Data Science at Barcelona Technology School, and looking to collaborate with high tech companies.
+- 🌱 I’m currently learning Data Science at Barcelona Technology School, and I am looking to collaborate with high tech companies.
 
 <!--
 **techno1731/techno1731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
