@@ -1,23 +1,14 @@
 ### Hi there 👋, this is Ennio Maldonado
 
-- 🌱 I’m currently learning Data Science at Barcelona Technology School, and I am looking to collaborate with high tech companies.
+#### Who is Ennio?
+
+Ennio is a curiosity driven and taco's eating analytical data driven engineer with strong problem solving skills. Originally from mexico and currently living in sunny Barcelona, he enjoys technology, science, and believes there must be life beyond earth.
+
+Ennio has over 5 years of experience working in global projects, for the last two years he has helped improve products and services for customers by using advanced problem solving, based on statistical techniques, leveraging big-data analytical tools, creating and maintaining models, and onboarding compelling new data sets from production environments.
+
+Competencies: Problem Solving, Data Science, Machine Learning, Cloud Computing, Spark, Python/Scala/R, Git, SQL, Data and Model Versioning, MLops.
 
 📫 How to reach me: 
 - enniomaldonadoa@gmail.com
 - www.enniomaldonado.com
 - www.linkedin.com/ennio-maldonado
-
-<!--
-**techno1731/techno1731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
