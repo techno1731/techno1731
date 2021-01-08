@@ -2,6 +2,11 @@
 
 - 🌱 I’m currently learning Data Science at Barcelona Technology School, and I am looking to collaborate with high tech companies.
 
+📫 How to reach me: 
+- enniomaldonadoa@gmail.com
+- www.enniomaldonado.com
+- www.linkedin.com/ennio-maldonado
+
 <!--
 **techno1731/techno1731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
