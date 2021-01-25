@@ -20,6 +20,7 @@ Competencies: Problem Solving, Data Science, Machine Learning, Cloud Computing, 
 [![Dash](https://img.shields.io/badge/Dash-1.18.1-blue)](https://github.com/plotly/dash)
 [![Streamlit](https://img.shields.io/badge/streamlit-0.74.1-yellow)](https://github.com/streamlit/streamlit)
 [![Sklearn](https://img.shields.io/badge/scikit%20learn-0.24.0-orange)](https://github.com/scikit-learn/scikit-learn)
+[![Tensorflow](https://img.shields.io/badge/Tensorflow-2.3.2-orange?logo=tensorflow)](https://github.com/tensorflow/tensorflow)
 [![Keras](https://img.shields.io/badge/keras-2.4-red?logo=keras)](https://github.com/keras-team/keras)
 [![Docker](https://img.shields.io/badge/Docker-20.10.2-blue?logo=docker)](https://github.com/docker)
 [![DVC](https://img.shields.io/badge/DVC-1.11.10-purple?logo=dvc)](https://github.com/iterative/dvc)
