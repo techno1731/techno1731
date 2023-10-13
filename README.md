@@ -2,11 +2,11 @@
 
 #### Who is Ennio?
 
-Ennio is a curiosity driven and taco's eating analytical data driven engineer with strong problem solving skills. Originally from mexico and currently living in sunny Barcelona, he enjoys technology, science, and believes there must be life beyond earth.
+Ennio is a curiosity driven and taco's eating data engineer with strong problem solving skills. Originally from mexico and currently living in sunny Barcelona, he enjoys technology, science, and believes there must be life beyond earth.
 
-Ennio has over 5 years of experience working in global projects, for the last two years he has helped improve products and services for customers by using advanced problem solving, based on statistical techniques, leveraging big-data analytical tools, creating and maintaining models, and onboarding compelling new data sets from production environments.
+Ennio has over 3 years of experience as a Data Engineer and over 8 years of experience helping global companies derive value from data.
 
-Competencies: Problem Solving, Data Science, Machine Learning, Cloud Computing, Spark, Python/Scala/R, Git, SQL, Data and Model Versioning, MLops.
+Competencies: Data Engineering, MLOps, Python, SQL, Apache Airflow, dbt, Snowflake, GCP BigQuery, AWS Redshift, Fivetran, PySpark, AWS S3, AWS RDS, Git, Docker, Kubernetes, CI/CD.
 
 📫 How to reach me: 
 - enniomaldonadoa@gmail.com
